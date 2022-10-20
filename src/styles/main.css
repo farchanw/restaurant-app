@@ -486,6 +486,10 @@ footer {
   margin: 2rem;
 }
 
+.loading {
+  min-height:96vh
+}
+
 @keyframes spinner {
   0% {
     transform: rotate(0);
